@@ -4,3 +4,5 @@
 Repositório criado enquanto eu aprendia Git e GitHub.
 
 Adicionei mais essa linha.
+
+Mais um teste, agora dentro do PyCharm.
